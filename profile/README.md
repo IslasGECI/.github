@@ -1,6 +1,6 @@
 # Conservación de Islas / Ciencia de Datos (CI/CD)
 
-![banner](banner.jpeg)
+![banner](profile/banner_ci-cd.png)
 <!--
 
 **Here are some ideas to get you started:**
