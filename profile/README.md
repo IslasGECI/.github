@@ -1,5 +1,3 @@
-<a href="https://www.islas.org.mx/"><img src="https://www.islas.org.mx/img/logo.svg" align="right" width="128" /></a>
-
 # Conservación de Islas / Ciencia de Datos (CI/CD)
 
 <a href="https://www.islas.org.mx/">![banner](profile/banner_ci-cd.png)</a>
