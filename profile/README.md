@@ -1,14 +1,9 @@
-# Conservación de Islas / Ciencia de Datos (CI/CD)
+# CI/CD: Conservación de Islas / Ciencia de Datos
 
 <a href="https://www.islas.org.mx/">![banner](profile/banner_ci-cd.png)</a>
 
-<!--
+## Join our open source community
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Ask on our forum](https://github.com/IslasGECI/Foro/discussions)
+- [Chat on Slack](https://islasgeci.slack.com)
+    - [Join our Slack workspace](https://join.slack.com/t/islasgeci/shared_invite/zt-f8kqlr2t-C8dO0JthMxaT81ShJiNk0w)
