@@ -1,6 +1,6 @@
 # CI/CD: Conservación de Islas / Ciencia de Datos
 
-<a href="https://www.islas.org.mx/">![banner](profile/banner_ci-cd.png)</a>
+<a href="https://www.islas.org.mx/">![banner](https://raw.githubusercontent.com/IslasGECI/.github/refs/heads/develop/profile/banner_ci-cd.png)</a>
 
 ## Join our open source community
 
